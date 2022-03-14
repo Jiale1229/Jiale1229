@@ -1,7 +1,8 @@
 
+
 # Hi there, I'm Xulele <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://i.imgur.com/8MupZHY.giff" />
 
 ## I'm a Computer Science and Engineering Student  
 
